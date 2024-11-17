@@ -50,7 +50,7 @@ mocha jest pytest
 
 🖥️ Workspace Setup
 i5-8th-gen gtx-1060 windows vs-code
-
+ https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 📝 Top Blog Posts
 Zero to Hero: Front End Developer Roadmap
 Beautify Your GitHub Profile like a Pro
