@@ -44,7 +44,7 @@
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashutoshkumarbhardwaj&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Aashutoshkumarbhardwaj&theme=tokyonight" />
   
 </p>
 <p align="center">
