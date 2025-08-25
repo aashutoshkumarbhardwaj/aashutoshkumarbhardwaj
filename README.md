@@ -1,55 +1,83 @@
-<h1 align="center">Hi 👋, I'm Aashutosh kumar Bhardwaj</h1>
-<h3 align="center">A passionate frontend developer and content creator from India</h3>
-
-
-
-###
+<!-- 🔥 Killer GitHub Profile README for Aashutoshkumarbhardwaj -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashutoshkumarbhardwaj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashutoshkumarbhardwaj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+# 👋 Hi, I'm <strong>Aashutosh Kumar Bhardwaj</strong>  
+🌱 Passionate Developer • 🚀 Open Source Contributor • 🤖 Machine Learning Enthusiast  
+
+![Profile views](https://komarev.com/ghpvc/?username=Aashutoshkumarbhardwaj&style=flat&color=brightgreen)  
+[![GitHub followers](https://img.shields.io/github/followers/Aashutoshkumarbhardwaj?label=Follow&style=flat&color=blue)](https://github.com/Aashutoshkumarbhardwaj?tab=followers)
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🚀 What I'm Up To
+- 🔬 **ML Models for Polymer Prediction** (Sustainable AI 🌱)  
+- 🧑‍💻 Exploring **React, Next.js, Flutter, Firebase**  
+- 🌟 Contributing to **GSsoc / SSOC** Projects  
+- 🎯 2025 Goal → Build impactful AI projects & ship dev tools  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 🏆 Achievements & Stats  
 
-###
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aashutoshkumarbhardwaj&theme=matrix&no-frame=true&margin-w=10" />
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aashutoshkumarbhardwaj&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashutoshkumarbhardwaj&theme=tokyonight" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashutoshkumarbhardwaj&theme=react-dark&area=true&hide_border=true" />
+</p>
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🧊 3D Contribution Graph  
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="720" />
+</p>
 
-###
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashutoshkumarbhardwaj&show_icons=true&locale=en&layout=compact" alt="aashutoshkumarbhardwaj" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashutoshkumarbhardwaj&" alt="aashutoshkumarbhardwaj" /></p>
+## 🐍 Contribution Snake  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+    <img alt="github-snake" src="./dist/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## ⚡ Tech Arsenal  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,flutter,tailwind,firebase,git,github,docker,linux,vscode,mongodb,postgresql" />
+</p>
+
+---
+
+## ✨ Highlighted Projects  
+- 🔬 **Polymer Property Prediction AI** → Sustainable Materials Screening  
+- 📊 **Dev Widget (Flutter)** → LeetCode, GFG, GitHub Stats with Weekly Graph  
+- 🤝 **GSsoc/SSOC Contributions** → Open Source Growth  
+
+---
+
+## 🔗 Connect with Me  
+<p align="center">
+  <a href="mailto:aashutoshkumarbhardwaj@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/Aashutoshkumarbhardwaj"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter" /></a>
+  <a href="https://dev.to/"><img src="https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=dev.to" /></a>
+</p>
+
+---
+
+<sub>✨ 3D graph: [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) • Snake: [Platane/snk](https://github.com/Platane/snk) • GIFs/Badges: [Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)</sub>
+
