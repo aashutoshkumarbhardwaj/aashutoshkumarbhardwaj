@@ -23,8 +23,9 @@
 ## 🏆 Achievements & Stats  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aashutoshkumarbhardwaj&theme=matrix&no-frame=true&margin-w=10" />
+  <img src="./assets/trophies.svg" />
 </p>
+
 
 
 <p align="center">
