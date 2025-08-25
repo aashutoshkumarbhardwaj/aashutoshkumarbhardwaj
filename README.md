@@ -75,10 +75,7 @@
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 </p>
 
-<p align="center"> 
-<img src="https://github-trophies.vercel.app/?username=Aashutoshkumarbhardwaj&theme=gruvbox&no-frame=true&margin-w=10" />
 
-</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
