@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aashutosh kumar Bhardwaj</h1>
 <h3 align="center">A passionate frontend developer and content creator from India</h3>
+
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashutoshkumarbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="aashutoshkumarbhardwaj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashutoshkumarbhardwaj" alt="aashutoshkumarbhardwaj" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ashutoshpande_y" target="blank"><img src="https://img.shields.io/twitter/follow/ashutoshpande_y?logo=twitter&style=for-the-badge" alt="ashutoshpande_y" /></a> </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
