@@ -3,22 +3,24 @@
 <div align="center">
 
 # 👋 Hi, I'm <strong>Aashutosh Kumar Bhardwaj</strong>  
-🌱 Passionate Developer • 🚀 Open Source Contributor • 🤖 Machine Learning Enthusiast  
 <p align="center">
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 </p>
+🌱 Passionate Developer • 🚀 Open Source Contributor • 🤖 Machine Learning Enthusiast  
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=Aashutoshkumarbhardwaj&style=flat&color=brightgreen)  
 [![GitHub followers](https://img.shields.io/github/followers/Aashutoshkumarbhardwaj?label=Follow&style=flat&color=blue)](https://github.com/Aashutoshkumarbhardwaj?tab=followers)
 
 </div>
-<p align="center">
-  <img src="./assets/divider.svg" alt="section divider" width="100%" />
-</p>
+
 
 
 
 ## 🚀 What I'm Up To
+<p align="center">
+  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+</p>
 - 🔬 **ML Models for Polymer Prediction** (Sustainable AI 🌱)  
 - 🧑‍💻 Exploring **React, Next.js, Flutter, Firebase**  
 - 🌟 Contributing to **GSsoc / SSOC** Projects  
@@ -33,44 +35,46 @@
 <img src="https://github-trophies.vercel.app/?username=Aashutoshkumarbhardwaj&theme=gruvbox&no-frame=true&margin-w=10" />
 
 </p>
+
 ## 🏆 Achievements & Stats  
 
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aashutoshkumarbhardwaj&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashutoshkumarbhardwaj&theme=tokyonight" />
 </p>
-
+<p align="center">
+  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashutoshkumarbhardwaj&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 
+
+
+
+## 🧊 3D Contribution Graph  
 <p align="center">
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 </p>
 
-
-## 🧊 3D Contribution Graph  
 <p align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" width="720" />
 </p>
 
 
+
+
+
+## 🐍 Contribution Snake  
 <p align="center">
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 </p>
 
-
-## 🐍 Contribution Snake  
 <p align="center"> 
 <img src="https://github-trophies.vercel.app/?username=Aashutoshkumarbhardwaj&theme=gruvbox&no-frame=true&margin-w=10" />
 
@@ -101,11 +105,10 @@
 </p>
 
 
-<p align="center">
-  <img src="./assets/divider.svg" alt="section divider" width="100%" />
-</p>
+
 
 ## ✨ Highlighted Projects  
+
 <p align="center">
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 </p>
@@ -127,10 +130,8 @@
   <a href="https://dev.to/"><img src="https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=dev.to" /></a>
 </p>
 
----
+
 
 <sub>✨ 3D graph: [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) • Snake: [Platane/snk](https://github.com/Platane/snk) • GIFs/Badges: [Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)</sub>
 
-<p align="center">
-  <img src="./assets/divider.svg" alt="section divider" width="100%" />
-</p>
+
