@@ -9,6 +9,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/Aashutoshkumarbhardwaj?label=Follow&style=flat&color=blue)](https://github.com/Aashutoshkumarbhardwaj?tab=followers)
 
 </div>
+<p align="center">
+  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+</p>
+
 
 ---
 
@@ -19,6 +23,9 @@
 - 🎯 2025 Goal → Build impactful AI projects & ship dev tools  
 
 ---
+<p align="center">
+  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+</p>
 
 ## 🏆 Achievements & Stats  
 
@@ -44,6 +51,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+</p>
+
 
 ## 🧊 3D Contribution Graph  
 <p align="center">
@@ -51,6 +62,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+</p>
+
 
 ## 🐍 Contribution Snake  
 <p align="center">
@@ -62,6 +77,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+</p>
 
 ## ⚡ Tech Arsenal  
 
@@ -76,6 +94,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+</p>
 
 ## ✨ Highlighted Projects  
 - 🔬 **Polymer Property Prediction AI** → Sustainable Materials Screening  
@@ -83,6 +104,9 @@
 - 🤝 **GSsoc/SSOC Contributions** → Open Source Growth  
 
 ---
+<p align="center">
+  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+</p>
 
 ## 🔗 Connect with Me  
 <p align="center">
@@ -96,3 +120,6 @@
 
 <sub>✨ 3D graph: [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) • Snake: [Platane/snk](https://github.com/Platane/snk) • GIFs/Badges: [Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)</sub>
 
+<p align="center">
+  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+</p>
