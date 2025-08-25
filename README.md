@@ -4,8 +4,7 @@
 
 # 👋 Hi, I'm <strong>Aashutosh Kumar Bhardwaj</strong>  
 <p align="center">
-  <img src="./assets/divider.svg" alt="section divider" width="100%" />
-</p>
+ 
 🌱 Passionate Developer • 🚀 Open Source Contributor • 🤖 Machine Learning Enthusiast  
 
 
@@ -18,9 +17,7 @@
 
 
 ## 🚀 What I'm Up To
-<p align="center">
-  <img src="./assets/divider.svg" alt="section divider" width="100%" />
-</p>
+
 - 🔬 **ML Models for Polymer Prediction** (Sustainable AI 🌱)  
 - 🧑‍💻 Exploring **React, Next.js, Flutter, Firebase**  
 - 🌟 Contributing to **GSsoc / SSOC** Projects  
@@ -38,12 +35,15 @@
 
 ## 🏆 Achievements & Stats  
 
-<p align="center">
-  <img src="./assets/divider.svg" alt="section divider" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aashutoshkumarbhardwaj&show_icons=true&theme=tokyonight" />
+
+  <p align="center">
+  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+</p>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashutoshkumarbhardwaj&theme=tokyonight" />
 </p>
 <p align="center">
@@ -120,9 +120,7 @@
 
 
 ## 🔗 Connect with Me  
-<p align="center">
-  <img src="./assets/divider.svg" alt="section divider" width="100%" />
-</p>
+
 <p align="center">
   <a href="mailto:aashutoshkumarbhardwaj@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
   <a href="https://linkedin.com/in/Aashutoshkumarbhardwaj"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
