@@ -64,8 +64,15 @@
 ---
 
 ## ⚡ Tech Arsenal  
+
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,flutter,tailwind,firebase,git,github,docker,linux,vscode,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,dart" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mysql,mongodb,postgresql" /><br>
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,docker,linux,vscode,vercel,netlify,postman" />
+</p>
+
 </p>
 
 ---
@@ -81,7 +88,7 @@
 <p align="center">
   <a href="mailto:aashutoshkumarbhardwaj@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
   <a href="https://linkedin.com/in/Aashutoshkumarbhardwaj"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter" /></a>
+  <a href="[https://twitter.com/](https://x.com/ashutoshpande_y)"><img src="https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter" /></a>
   <a href="https://dev.to/"><img src="https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=dev.to" /></a>
 </p>
 
