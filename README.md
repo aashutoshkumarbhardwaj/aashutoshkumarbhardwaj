@@ -4,6 +4,9 @@
 
 # 👋 Hi, I'm <strong>Aashutosh Kumar Bhardwaj</strong>  
 🌱 Passionate Developer • 🚀 Open Source Contributor • 🤖 Machine Learning Enthusiast  
+<p align="center">
+  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Aashutoshkumarbhardwaj&style=flat&color=brightgreen)  
 [![GitHub followers](https://img.shields.io/github/followers/Aashutoshkumarbhardwaj?label=Follow&style=flat&color=blue)](https://github.com/Aashutoshkumarbhardwaj?tab=followers)
@@ -14,7 +17,6 @@
 </p>
 
 
----
 
 ## 🚀 What I'm Up To
 - 🔬 **ML Models for Polymer Prediction** (Sustainable AI 🌱)  
@@ -22,17 +24,18 @@
 - 🌟 Contributing to **GSsoc / SSOC** Projects  
 - 🎯 2025 Goal → Build impactful AI projects & ship dev tools  
 
----
+
 <p align="center">
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 </p>
-
-## 🏆 Achievements & Stats  
 
 <p align="center"> 
 <img src="https://github-trophies.vercel.app/?username=Aashutoshkumarbhardwaj&theme=gruvbox&no-frame=true&margin-w=10" />
 
 </p>
+## 🏆 Achievements & Stats  
+
+
 
 
 
@@ -50,7 +53,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashutoshkumarbhardwaj&theme=react-dark&area=true&hide_border=true" />
 </p>
 
----
+
 <p align="center">
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 </p>
@@ -61,13 +64,17 @@
   <img src="./profile-3d-contrib/profile-green-animate.svg" width="720" />
 </p>
 
----
+
 <p align="center">
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 </p>
 
 
 ## 🐍 Contribution Snake  
+<p align="center"> 
+<img src="https://github-trophies.vercel.app/?username=Aashutoshkumarbhardwaj&theme=gruvbox&no-frame=true&margin-w=10" />
+
+</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
@@ -76,13 +83,13 @@
   </picture>
 </p>
 
----
+
+
+
+## ⚡ Tech Arsenal  
 <p align="center">
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 </p>
-
-## ⚡ Tech Arsenal  
-
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,dart" /><br>
@@ -93,22 +100,26 @@
 
 </p>
 
----
+
 <p align="center">
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 </p>
 
 ## ✨ Highlighted Projects  
+<p align="center">
+  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+</p>
 - 🔬 **Polymer Property Prediction AI** → Sustainable Materials Screening  
 - 📊 **Dev Widget (Flutter)** → LeetCode, GFG, GitHub Stats with Weekly Graph  
 - 🤝 **GSsoc/SSOC Contributions** → Open Source Growth  
 
----
+
+
+
+## 🔗 Connect with Me  
 <p align="center">
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 </p>
-
-## 🔗 Connect with Me  
 <p align="center">
   <a href="mailto:aashutoshkumarbhardwaj@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
   <a href="https://linkedin.com/in/Aashutoshkumarbhardwaj"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
