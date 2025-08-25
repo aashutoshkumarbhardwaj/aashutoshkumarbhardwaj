@@ -40,9 +40,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aashutoshkumarbhardwaj&show_icons=true&theme=tokyonight" />
 
-  <p align="center">
+  
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
-</p>
+
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashutoshkumarbhardwaj&theme=tokyonight" />
 </p>
