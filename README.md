@@ -22,9 +22,10 @@
 
 ## 🏆 Achievements & Stats  
 
+<p align="center"> 
 <img src="https://github-trophies.vercel.app/?username=Aashutoshkumarbhardwaj&theme=gruvbox&no-frame=true&margin-w=10" />
 
-
+</p>
 
 
 
